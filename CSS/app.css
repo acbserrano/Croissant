@@ -1,11 +1,12 @@
 body {
-  background: wheat;
+  background: papayawhip;
 }
 
 h1,
 p,
 header {
   text-align: center;
+  padding-bottom: 25px;
 }
 
 header {
